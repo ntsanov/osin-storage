@@ -1,4 +1,4 @@
-module github.com/ntsanov
+module github.com/ntsanov/osin-storage
 
 go 1.13
 
